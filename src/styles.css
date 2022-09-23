@@ -12,3 +12,7 @@ li {
   font: black;
   border-color: 2px solid black;
 }
+
+footer {
+  font-size: small;
+}
