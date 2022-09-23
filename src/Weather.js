@@ -59,7 +59,9 @@ export default function Weather(props) {
         </ul>
 
         <footer> <em>
-    This project was coded by <a href="https://www.margaretcezar.com" target="_blank" rel="noopener noreferrer">Margaret Cezar</a> and is open sourced on <a href="https://github.com/Margaret6556/weather-react" target="_blank">Github repository</a> and hosted on <a href="https://vermillion-macaron-178e6c.netlify.app/" target="_blank">Netlify.</a>
+    This project was coded by <a href="https://www.margaretcezar.com" target="_blank" rel="noopener noreferrer">Margaret Cezar</a> 
+    and is open sourced on <a href="https://github.com/Margaret6556/weather-react" target="_blank" rel="noopener noreferrer">Github repository</a> and hosted on
+     <a href="https://vermillion-macaron-178e6c.netlify.app/" target="_blank" rel="noopener noreferrer">Netlify.</a>
     </em></footer>
       </div>
     );
