@@ -1,0 +1,14 @@
+body {
+  font-family: Verdana;
+  text-align: center;
+  background-color: bisque;
+}
+
+li {
+  list-style: none;
+  text-transform: capitalize;
+}
+.container {
+  font: black;
+  border-color: 2px solid black;
+}
